@@ -1,0 +1,8 @@
+ARG seed 0
+ARG address space size 1g
+ARG phys mem size 2g
+ARG page size 4k
+ARG verbose True
+ARG addresses -1
+
+Error: must use smaller sizes (less than 1 GB) for this simulation.

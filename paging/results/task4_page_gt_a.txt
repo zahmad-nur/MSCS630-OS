@@ -1,0 +1,8 @@
+ARG seed 0
+ARG address space size 16k
+ARG phys mem size 64k
+ARG page size 32k
+ARG verbose True
+ARG addresses -1
+
+Error in argument: address space must be a multiple of the pagesize

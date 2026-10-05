@@ -1,0 +1,8 @@
+ARG seed 0
+ARG address space size 15k
+ARG phys mem size 32k
+ARG page size 1k
+ARG verbose True
+ARG addresses -1
+
+Error in argument: address space must be a power of 2
